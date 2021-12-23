@@ -1,11 +1,7 @@
 ## Prueba de Logica
-Elegí usar React para esta logica ya que me parecio agradable que se pueda apreciar tambien los conocimientos respecto a este lenguaje y a los usos y costumbres asumidos.
-En el codigo agregue pruebas unitarias con Jest, donde puede corroborarse el comportamiento de cada componente, webhook o helper que se ha generado para este proyecto.
-
-Para instalar la prueba logica, revise el README.md que se encuentra en la carpeta `yaydoo_examen_algoritmos_manuelbrunia`
 
 ### Como iniciar la revisión
-Para la prueba de logica se debe primero debemos ingresar ingresar los siguientes comando en consola para poder instalar los node_modules:
+Para iniciar el proyecto de pruebas se necesita los siguientes comando en consola e instalar los node_modules:
 
 ### `npm i`
 
