@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <Test1Console/> SnapShot of <Test1Console/> 1`] = `
+<Fragment>
+  <strong>
+    Console:
+  </strong>
+  <br />
+  <code>
+    const a: [
+    1, 
+    1, 
+    1
+    ];
+  </code>
+  <br />
+  <code>
+    const b: [
+    2, 
+    1, 
+    1
+    ];
+  </code>
+  <br />
+  <code>
+    result: 
+    1
+    , 
+    0
+  </code>
+</Fragment>
+`;

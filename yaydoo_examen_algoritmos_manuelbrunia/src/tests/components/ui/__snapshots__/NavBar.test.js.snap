@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <Navbar/> SnapShot of <Navbar/> 1`] = `
+<nav
+  className="navbar navbar-expand-md navbar-dark bg-dark"
+>
+  <div
+    className="container-fluid"
+  >
+    <Link
+      className="navbar-brand"
+      to="/"
+    >
+      Algoritmos
+    </Link>
+    <button
+      aria-controls="navbarNavDropdown"
+      aria-expanded={false}
+      aria-label="Toggle navigation"
+      className="navbar-toggler"
+      data-bs-target="#navbarNavDropdown"
+      data-bs-toggle="collapse"
+      onClick={[Function]}
+      type="button"
+    >
+      <span
+        className="navbar-toggler-icon"
+      />
+    </button>
+    <div
+      className="collapse navbar-collapse"
+      id="navbarNavDropdown"
+    >
+      <ul
+        className="navbar-nav"
+      >
+        <li
+          className="nav-item"
+        >
+          <NavLink
+            className={[Function]}
+            to="/test-1"
+          >
+            Alice vs Bob
+          </NavLink>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <NavLink
+            className={[Function]}
+            to="/test-2"
+          >
+            Cuenta Palabras
+          </NavLink>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+`;

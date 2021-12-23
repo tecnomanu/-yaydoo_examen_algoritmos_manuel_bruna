@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <AppRouter/> SnapShot of <AppRouter/> 1`] = `
+<BrowserRouter>
+  <Navbar />
+  <Routes>
+    <Route
+      element={<HomeScreen />}
+      path="/"
+    />
+    <Route
+      element={<Test1Screen />}
+      path="/test-1"
+    />
+    <Route
+      element={<Test2Screen />}
+      path="/test-2"
+    />
+  </Routes>
+</BrowserRouter>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <Test1StateResult/> SnapShot of <Test1StateResult/> 1`] = `
+<div>
+  <h1>
+    1
+     vs 
+    2
+  </h1>
+  <h2>
+    Gana Bob
+  </h2>
+</div>
+`;

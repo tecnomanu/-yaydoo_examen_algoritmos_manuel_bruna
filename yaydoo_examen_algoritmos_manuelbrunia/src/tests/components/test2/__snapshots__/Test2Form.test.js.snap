@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <Test2Form/> SnapShot of <Test2Form/> 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <textarea
+    className="form-control"
+    name="stringInput"
+    onChange={[Function]}
+    placeholder="Pegue el texto aquí para contar sus palabras..."
+    rows="10"
+    value="hola Hola Mundo"
+  />
+  <button
+    className="btn btn-primary mt-2"
+    type="submit"
+  >
+    Contar Palabras
+  </button>
+</form>
+`;

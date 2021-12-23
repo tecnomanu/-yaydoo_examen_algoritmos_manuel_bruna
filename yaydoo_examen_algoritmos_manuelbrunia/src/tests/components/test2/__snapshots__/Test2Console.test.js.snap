@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <Test2Console/> SnapShot of <Test1Console/> 1`] = `
+<Fragment>
+  <strong>
+    Console:
+  </strong>
+  <br />
+  <code>
+    Input string: "
+    hola Hola Mundo
+    "
+  </code>
+  <br />
+  <br />
+  <code>
+    Output:  
+    {
+    "hola" : 2, 
+    "mundo" : 1
+    }
+  </code>
+</Fragment>
+`;

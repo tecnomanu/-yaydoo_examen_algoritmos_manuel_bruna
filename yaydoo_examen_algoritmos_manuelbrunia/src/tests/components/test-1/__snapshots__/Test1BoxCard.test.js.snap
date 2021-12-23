@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on <Test1BoxCard/> SnapShot of <Test1BoxCard/> 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-header"
+  >
+    Alice
+  </div>
+  <ul
+    className="list-group list-group-flush"
+  >
+    <li
+      className="list-group-item"
+    >
+      Claridad del problema: 
+      10
+    </li>
+    <li
+      className="list-group-item"
+    >
+      Originalidad: 
+      20
+    </li>
+    <li
+      className="list-group-item"
+    >
+      Dificultad: 
+      30
+    </li>
+  </ul>
+</div>
+`;
