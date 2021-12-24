@@ -1,7 +1,7 @@
-## Prueba de Logica
+# CRUD Opciónal - FrontEnd
 
-### Como iniciar la revisión
-Para iniciar el proyecto de pruebas se necesita los siguientes comando en consola e instalar los node_modules:
+## Como iniciar la revisión
+Para iniciar el frontend se necesita los siguientes comando en consola e instalar los node_modules:
 
 ### `npm i`
 
@@ -12,12 +12,6 @@ Ahora debemos correr el comando start para poder ver el proyecto.
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en nuestro navegador web.
 
 En la pantalla inicial se pueden ver las explicaciones y con la barra superior (NavBar), se puede navegar entre secciones.
-
-### Pruebas unitarias
-Realice pruebas unitarias con Jest, para que se puedan corroborar el correcto comportamiento de cada component, para revisar estas pruebas debemos correr
-el siguiente comando en consola.
-
-### `npm test`
 
 ### Build y uso en producción
 En caso de querer hacer un build para poder revisar el challenge como si fueramos a producción, debemos correr el siguiente comando:

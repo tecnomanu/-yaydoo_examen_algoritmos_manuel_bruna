@@ -1,6 +1,6 @@
-## Prueba de Logica
+# Prueba de Logica
 
-### Como iniciar la revisión
+## Como iniciar la revisión
 Para iniciar el proyecto de pruebas se necesita los siguientes comando en consola e instalar los node_modules:
 
 ### `npm i`

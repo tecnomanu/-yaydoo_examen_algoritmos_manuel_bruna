@@ -25,3 +25,14 @@ Como menciono en el punto anterior, Factory Method es el que se encarga de gener
  
 Para el caso de Factory Method, podemos crear dos tipos de muebles: Un sillón y una silla. Ambos comparten las mismas características, pero estas se diferencian por el tipo nada más. Cada producto se entiende como distinto pero poseen las mismas funcionalidades.
 Claramente, el tipo de comercio invita a la creación de nuevos productos como podrían ser mesas y estas tener un estilo Moderno y otro Luis XVI. En este caso empezamos a compartir familiar por los estilos, grupos de muebles (sillas, mesas y sillones) pero empiezan a diferenciar, por consecuencia, sus características. En este caso, estamos ante una situación de Abstract Factory, donde las familias son varias y comparten distintos creadores. Pueden usar variantes de sus estilos en cada familia y sus grupos no se cruzaran para, de este modo, tener una coherencia entre sí.
+
+## CRUD Opciónal
+Espero cumplir con sus espectativas, dado el tiempo hice todo lo posible por llegar con la mejor calidad posible en mi entrega. Arriesgo demostrar fallas por enviar un codigo en tan poco tiempo, pero tomo el riesgo.
+Para la parte de Backend decidi usar Node + NestJs, aunque nunca lo había usado a NestJs, se me hace muy similar a mi fuerte que es Laravel en PHP y ayuda que este en Typescript, mi fuerte del frontend con Angular.
+Realice un CRUD con Seeders para que puedan popular sus bases con 100 ususarios dummy, aprovechadno librerías que realmente me sorprendieron en JS (vengo del mundo de Laravel en PHP).
+Me gusto el desafio y me alegra haber llegado a poder entregarlo.
+
+Dejo un README.md en el backend para que puedan instalarlo y liberar las semillas.
+
+
+## Gracias por su tiempo :heart:! Quedo atento a devoluciones.
