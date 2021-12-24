@@ -1,0 +1,48 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid transparent;
+    border-radius: 0;
+}
+
+.btn-circle.btn-lg, .btn-group-lg>.btn-circle.btn {
+    width: 30px;
+    height: 30px;
+    padding: 3px 6px;
+    font-size: 18px;
+    line-height: 23px;
+    margin-left:2px;
+}
+.text-muted {
+    color: #8898aa!important;
+}
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+}
+.btn-circle {
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
+
+.fade {
+    transition: opacity .15s linear;
+}
+.fade:not(.show) {
+    opacity: 0;
+}
+
+
+.modal-backdrop:not(.show){
+    display: none;
+}
+
+.show{
+    display: block;
+}
